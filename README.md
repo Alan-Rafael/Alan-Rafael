@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alan  and I'm a  from  Brasil / RN 🇧🇷</p>
+<p align="left">My name is Alan  and I'm  from  Brasil / RN 🇧🇷</p>
 
 ###
 
