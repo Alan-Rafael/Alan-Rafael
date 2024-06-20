@@ -1,15 +1,11 @@
 
 
-###
-
 <br clear="both">
 
   <h4 align="center">Hi, I'm Alan !</h4>
-  <img height="131" src="https://i.pinimg.com/564x/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.jpg"  />
+  <img height="131" src="https://i.pinimg.com/564x/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.jpg"><h3 align="left">I work with:</h3>
+ </img>
 
-###
-
-<h4 align="left">I am currently studying:</h4>
 
 ###
 
