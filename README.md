@@ -1,11 +1,14 @@
+<h4 align="left">Hi, I'm Alan !</h4>
 
+###
 
 <br clear="both">
 
-  <h4 align="center">Hi, I'm Alan !</h4>
-  <img height="131" src="https://i.pinimg.com/564x/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.jpg"><h3 align="left">I work with:</h3>
- </img>
+<img align="right" height="131" src="https://i.pinimg.com/564x/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.jpg"  />
 
+###
+
+<h4 align="left">I am currently studying:</h4>
 
 ###
 
@@ -37,4 +40,4 @@
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
 </div>
 
-
+###
