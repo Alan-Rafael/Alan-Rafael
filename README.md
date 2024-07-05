@@ -34,23 +34,3 @@
 </div>
 
 ###
-
-<h3 align="left">I work with:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-</div>
-
-###
